@@ -1,0 +1,3 @@
+from mobile.models import mobile
+m = Mobile(name='NOKIA N95', welcomenote='Megha cloud Infotech.')
+m.save()
